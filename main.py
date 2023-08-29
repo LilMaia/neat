@@ -9,6 +9,7 @@ if __name__ == "__main__":
     population_filename = 'population.pkl'
     env = retro.make(game=game_name)
     config = load_neat_config(config_filename)
+    num_generations = 50
     
     while True:
         print("Menu:")
@@ -18,7 +19,7 @@ if __name__ == "__main__":
         choice = input("Escolha uma opção: ")
 
         if choice == "1":
-            run_neat_training(env, config, population_filename)
+            run_neat_training(env, config, population_filename, num_generations)
         elif choice == "2":
             test_population_function(env, config, population_filename)  # Chame a função de teste aqui
         elif choice == "3":

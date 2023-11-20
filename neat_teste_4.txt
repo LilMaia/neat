@@ -1,0 +1,738 @@
+Generation 0
+
+ ****** Running generation 0 ****** 
+
+Pontuação do agente atual no jogo :  0
+1 -1300100.0
+Pontuação do agente atual no jogo :  0
+2 -1300100.0
+Pontuação do agente atual no jogo :  0
+3 -1300100.0
+Pontuação do agente atual no jogo :  0
+4 -1300100.0
+Pontuação do agente atual no jogo :  0
+5 -1300100.0
+Pontuação do agente atual no jogo :  0
+6 -1300100.0
+Pontuação do agente atual no jogo :  0
+7 -1300100.0
+Pontuação do agente atual no jogo :  40
+8 82500.0
+Pontuação do agente atual no jogo :  0
+9 -1300100.0
+Pontuação do agente atual no jogo :  0
+10 -1300100.0
+Pontuação do agente atual no jogo :  0
+11 -1000600.0
+Pontuação do agente atual no jogo :  0
+12 -1300100.0
+Pontuação do agente atual no jogo :  0
+13 -1300100.0
+Pontuação do agente atual no jogo :  0
+14 -1300100.0
+Pontuação do agente atual no jogo :  0
+15 -1300100.0
+Pontuação do agente atual no jogo :  0
+16 -1300100.0
+Pontuação do agente atual no jogo :  0
+17 -405600.0
+Pontuação do agente atual no jogo :  0
+18 -1300100.0
+Pontuação do agente atual no jogo :  0
+19 -1300100.0
+Pontuação do agente atual no jogo :  0
+20 -1300100.0
+Pontuação do agente atual no jogo :  0
+21 -1300100.0
+Pontuação do agente atual no jogo :  0
+22 -1300100.0
+Pontuação do agente atual no jogo :  0
+23 -157100.0
+Pontuação do agente atual no jogo :  0
+24 -1300100.0
+Pontuação do agente atual no jogo :  0
+25 -1300100.0
+Population's average fitness: -1151316.00000 stdev: 377064.73150
+Best fitness: 82500.00000 - size: (12, 10752) - species 1 - id 8
+Average adjusted fitness: 0.108
+Mean genetic distance 1.239, standard deviation 0.244
+Population of 25 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    0    25  82500.0    0.108     0
+Total extinctions: 0
+Generation time: 1742.364 sec
+
+ ****** Running generation 1 ****** 
+
+Pontuação do agente atual no jogo :  40
+8 82500.0
+Pontuação do agente atual no jogo :  0
+23 -157100.0
+Pontuação do agente atual no jogo :  0
+17 -405600.0
+Pontuação do agente atual no jogo :  0
+11 -1000600.0
+Pontuação do agente atual no jogo :  0
+1 -1300100.0
+Pontuação do agente atual no jogo :  0
+2 -1300100.0
+Pontuação do agente atual no jogo :  0
+3 -1300100.0
+Pontuação do agente atual no jogo :  0
+4 -1300100.0
+Pontuação do agente atual no jogo :  0
+5 -1300100.0
+Pontuação do agente atual no jogo :  0
+6 -1300100.0
+Pontuação do agente atual no jogo :  0
+26 -1300100.0
+Pontuação do agente atual no jogo :  0
+27 -1300100.0
+Pontuação do agente atual no jogo :  0
+28 -1000600.0
+Pontuação do agente atual no jogo :  0
+29 -1300100.0
+Pontuação do agente atual no jogo :  0
+30 -1300100.0
+Pontuação do agente atual no jogo :  0
+31 -1300100.0
+Pontuação do agente atual no jogo :  0
+32 -1300100.0
+Pontuação do agente atual no jogo :  0
+33 -1300100.0
+Pontuação do agente atual no jogo :  0
+34 -701100.0
+Pontuação do agente atual no jogo :  0
+35 -1300100.0
+Pontuação do agente atual no jogo :  0
+36 -160100.0
+Pontuação do agente atual no jogo :  0
+37 -1300100.0
+Pontuação do agente atual no jogo :  0
+38 -156600.0
+Pontuação do agente atual no jogo :  0
+39 -1300100.0
+Pontuação do agente atual no jogo :  0
+40 -456100.0
+Population's average fitness: -990276.00000 stdev: 468022.17835
+Best fitness: 82500.00000 - size: (12, 10752) - species 1 - id 8
+Average adjusted fitness: 0.224
+Mean genetic distance 1.247, standard deviation 0.230
+Population of 25 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    1    25  82500.0    0.224     1
+Total extinctions: 0
+Generation time: 1729.430 sec (1735.897 average)
+
+ ****** Running generation 2 ****** 
+
+Pontuação do agente atual no jogo :  40
+8 82500.0
+Pontuação do agente atual no jogo :  0
+38 -156600.0
+Pontuação do agente atual no jogo :  0
+23 -157100.0
+Pontuação do agente atual no jogo :  0
+36 -160100.0
+Pontuação do agente atual no jogo :  0
+17 -405600.0
+Pontuação do agente atual no jogo :  0
+40 -456100.0
+Pontuação do agente atual no jogo :  0
+34 -701100.0
+Pontuação do agente atual no jogo :  0
+11 -1000600.0
+Pontuação do agente atual no jogo :  0
+28 -1000600.0
+Pontuação do agente atual no jogo :  0
+1 -1300100.0
+Pontuação do agente atual no jogo :  0
+41 -701100.0
+Pontuação do agente atual no jogo :  0
+42 -1001100.0
+Pontuação do agente atual no jogo :  0
+43 -1300100.0
+Pontuação do agente atual no jogo :  0
+44 -1300100.0
+Pontuação do agente atual no jogo :  0
+45 -456100.0
+Pontuação do agente atual no jogo :  0
+46 -161100.0
+Pontuação do agente atual no jogo :  0
+47 -706100.0
+Pontuação do agente atual no jogo :  0
+48 -1300100.0
+Pontuação do agente atual no jogo :  0
+49 -456100.0
+Pontuação do agente atual no jogo :  0
+50 -161100.0
+Pontuação do agente atual no jogo :  40
+51 74600.0
+Pontuação do agente atual no jogo :  30
+52 298400.0
+Pontuação do agente atual no jogo :  0
+53 -1300100.0
+Pontuação do agente atual no jogo :  0
+54 -1300100.0
+Pontuação do agente atual no jogo :  0
+55 -1300100.0
+Population's average fitness: -653028.00000 stdev: 516669.78895
+Best fitness: 298400.00000 - size: (13, 10661) - species 1 - id 52
+Average adjusted fitness: 0.405
+Mean genetic distance 1.118, standard deviation 0.228
+Population of 25 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    2    25  298400.0    0.405     0
+Total extinctions: 0
+Generation time: 1730.701 sec (1734.165 average)
+
+ ****** Running generation 3 ****** 
+
+Pontuação do agente atual no jogo :  30
+52 298400.0
+Pontuação do agente atual no jogo :  40
+8 82500.0
+Pontuação do agente atual no jogo :  40
+51 74600.0
+Pontuação do agente atual no jogo :  0
+38 -156600.0
+Pontuação do agente atual no jogo :  0
+23 -157100.0
+Pontuação do agente atual no jogo :  0
+36 -160100.0
+Pontuação do agente atual no jogo :  0
+46 -161100.0
+Pontuação do agente atual no jogo :  0
+50 -161100.0
+Pontuação do agente atual no jogo :  0
+17 -405600.0
+Pontuação do agente atual no jogo :  0
+40 -456100.0
+Pontuação do agente atual no jogo :  0
+56 -456600.0
+Pontuação do agente atual no jogo :  0
+57 -456100.0
+Pontuação do agente atual no jogo :  0
+58 -1300100.0
+Pontuação do agente atual no jogo :  0
+59 -1300100.0
+Pontuação do agente atual no jogo :  0
+60 -157100.0
+Pontuação do agente atual no jogo :  0
+61 -706100.0
+Pontuação do agente atual no jogo :  0
+62 -1300100.0
+Pontuação do agente atual no jogo :  0
+63 -160600.0
+Pontuação do agente atual no jogo :  0
+64 -1300100.0
+Pontuação do agente atual no jogo :  0
+65 -456100.0
+Pontuação do agente atual no jogo :  0
+66 -1300100.0
+Pontuação do agente atual no jogo :  0
+67 -160600.0
+Pontuação do agente atual no jogo :  0
+68 -1300100.0
+Pontuação do agente atual no jogo :  0
+69 -161600.0
+Pontuação do agente atual no jogo :  0
+70 -161600.0
+Population's average fitness: -475168.00000 stdev: 503954.31279
+Best fitness: 298400.00000 - size: (13, 10661) - species 1 - id 52
+Average adjusted fitness: 0.516
+Mean genetic distance 0.894, standard deviation 0.197
+Population of 25 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    3    25  298400.0    0.516     1
+Total extinctions: 0
+Generation time: 1729.222 sec (1732.929 average)
+
+ ****** Running generation 4 ****** 
+
+Pontuação do agente atual no jogo :  30
+52 298400.0
+Pontuação do agente atual no jogo :  40
+8 82500.0
+Pontuação do agente atual no jogo :  40
+51 74600.0
+Pontuação do agente atual no jogo :  0
+38 -156600.0
+Pontuação do agente atual no jogo :  0
+23 -157100.0
+Pontuação do agente atual no jogo :  0
+60 -157100.0
+Pontuação do agente atual no jogo :  0
+36 -160100.0
+Pontuação do agente atual no jogo :  0
+63 -160600.0
+Pontuação do agente atual no jogo :  0
+67 -160600.0
+Pontuação do agente atual no jogo :  0
+46 -161100.0
+Pontuação do agente atual no jogo :  0
+71 -1000600.0
+Pontuação do agente atual no jogo :  0
+72 -1300100.0
+Pontuação do agente atual no jogo :  0
+73 -161600.0
+Pontuação do agente atual no jogo :  0
+74 -1300100.0
+Pontuação do agente atual no jogo :  0
+75 -1300100.0
+Pontuação do agente atual no jogo :  0
+76 -161600.0
+Pontuação do agente atual no jogo :  0
+77 -1300100.0
+Pontuação do agente atual no jogo :  0
+78 -1300100.0
+Pontuação do agente atual no jogo :  0
+79 -1300100.0
+Pontuação do agente atual no jogo :  0
+80 -1300100.0
+Pontuação do agente atual no jogo :  0
+81 -1300100.0
+Pontuação do agente atual no jogo :  0
+82 -161600.0
+Pontuação do agente atual no jogo :  0
+83 -1300100.0
+Pontuação do agente atual no jogo :  0
+84 -157600.0
+Pontuação do agente atual no jogo :  0
+85 -1300100.0
+Population's average fitness: -612068.00000 stdev: 597319.65561
+Best fitness: 298400.00000 - size: (13, 10661) - species 1 - id 52
+Average adjusted fitness: 0.430
+Mean genetic distance 0.768, standard deviation 0.227
+Population of 25 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    4    25  298400.0    0.430     2
+Total extinctions: 0
+Generation time: 1752.316 sec (1736.807 average)
+
+ ****** Running generation 5 ****** 
+
+Pontuação do agente atual no jogo :  30
+52 298400.0
+Pontuação do agente atual no jogo :  40
+8 82500.0
+Pontuação do agente atual no jogo :  40
+51 74600.0
+Pontuação do agente atual no jogo :  0
+38 -156600.0
+Pontuação do agente atual no jogo :  0
+23 -157100.0
+Pontuação do agente atual no jogo :  0
+60 -157100.0
+Pontuação do agente atual no jogo :  0
+84 -157600.0
+Pontuação do agente atual no jogo :  0
+36 -160100.0
+Pontuação do agente atual no jogo :  0
+63 -160600.0
+Pontuação do agente atual no jogo :  0
+67 -160600.0
+Pontuação do agente atual no jogo :  0
+86 -1300100.0
+Pontuação do agente atual no jogo :  0
+87 -208100.0
+Pontuação do agente atual no jogo :  0
+88 -1300100.0
+Pontuação do agente atual no jogo :  40
+89 -525000.0
+Pontuação do agente atual no jogo :  0
+90 -1000600.0
+Pontuação do agente atual no jogo :  0
+91 -160600.0
+Pontuação do agente atual no jogo :  40
+92 -590900.0
+Pontuação do agente atual no jogo :  0
+93 -1300100.0
+Pontuação do agente atual no jogo :  0
+94 -1300100.0
+Pontuação do agente atual no jogo :  0
+95 -161600.0
+Pontuação do agente atual no jogo :  0
+96 -1300100.0
+Pontuação do agente atual no jogo :  0
+97 -405100.0
+Pontuação do agente atual no jogo :  0
+98 -702600.0
+Pontuação do agente atual no jogo :  40
+99 -244900.0
+Pontuação do agente atual no jogo :  0
+100 -160600.0
+Population's average fitness: -452588.00000 stdev: 492847.93949
+Best fitness: 298400.00000 - size: (13, 10661) - species 1 - id 52
+Average adjusted fitness: 0.530
+Mean genetic distance 0.891, standard deviation 0.239
+Population of 25 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    5    25  298400.0    0.530     3
+Total extinctions: 0
+Generation time: 1747.820 sec (1738.642 average)
+
+ ****** Running generation 6 ****** 
+
+Pontuação do agente atual no jogo :  30
+52 298400.0
+Pontuação do agente atual no jogo :  40
+8 82500.0
+Pontuação do agente atual no jogo :  40
+51 74600.0
+Pontuação do agente atual no jogo :  0
+38 -156600.0
+Pontuação do agente atual no jogo :  0
+23 -157100.0
+Pontuação do agente atual no jogo :  0
+60 -157100.0
+Pontuação do agente atual no jogo :  0
+84 -157600.0
+Pontuação do agente atual no jogo :  0
+36 -160100.0
+Pontuação do agente atual no jogo :  0
+63 -160600.0
+Pontuação do agente atual no jogo :  0
+67 -160600.0
+Pontuação do agente atual no jogo :  0
+101 -1300100.0
+Pontuação do agente atual no jogo :  0
+102 -161600.0
+Pontuação do agente atual no jogo :  0
+103 -1300100.0
+Pontuação do agente atual no jogo :  0
+104 -1300100.0
+Pontuação do agente atual no jogo :  0
+105 -161100.0
+Pontuação do agente atual no jogo :  0
+106 -1300100.0
+Pontuação do agente atual no jogo :  0
+107 -160100.0
+Pontuação do agente atual no jogo :  0
+108 -161100.0
+Pontuação do agente atual no jogo :  0
+109 -1300100.0
+Pontuação do agente atual no jogo :  0
+110 -161600.0
+Pontuação do agente atual no jogo :  0
+111 -161100.0
+Pontuação do agente atual no jogo :  0
+112 -1001100.0
+Pontuação do agente atual no jogo :  0
+113 -456100.0
+Pontuação do agente atual no jogo :  0
+114 -1300100.0
+Pontuação do agente atual no jogo :  0
+115 -1300100.0
+Population's average fitness: -487148.00000 stdev: 549264.69912
+Best fitness: 298400.00000 - size: (13, 10661) - species 1 - id 52
+Average adjusted fitness: 0.509
+Mean genetic distance 0.814, standard deviation 0.220
+Population of 25 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    6    25  298400.0    0.509     4
+Total extinctions: 0
+Generation time: 1940.104 sec (1767.423 average)
+
+ ****** Running generation 7 ****** 
+
+Pontuação do agente atual no jogo :  30
+52 298400.0
+Pontuação do agente atual no jogo :  40
+8 82500.0
+Pontuação do agente atual no jogo :  40
+51 74600.0
+Pontuação do agente atual no jogo :  0
+38 -156600.0
+Pontuação do agente atual no jogo :  0
+23 -157100.0
+Pontuação do agente atual no jogo :  0
+60 -157100.0
+Pontuação do agente atual no jogo :  0
+84 -157600.0
+Pontuação do agente atual no jogo :  0
+36 -160100.0
+Pontuação do agente atual no jogo :  0
+107 -160100.0
+Pontuação do agente atual no jogo :  0
+63 -160600.0
+Pontuação do agente atual no jogo :  0
+116 -1300100.0
+Pontuação do agente atual no jogo :  0
+117 -1000600.0
+Pontuação do agente atual no jogo :  0
+118 -1300100.0
+Pontuação do agente atual no jogo :  0
+119 -456600.0
+Pontuação do agente atual no jogo :  0
+120 -1300100.0
+Pontuação do agente atual no jogo :  0
+121 -1300100.0
+Pontuação do agente atual no jogo :  0
+122 -160600.0
+Pontuação do agente atual no jogo :  0
+123 -1300100.0
+Pontuação do agente atual no jogo :  0
+124 -1300100.0
+Pontuação do agente atual no jogo :  0
+125 -456100.0
+Pontuação do agente atual no jogo :  40
+126 -140000.0
+Pontuação do agente atual no jogo :  0
+127 -1300100.0
+Pontuação do agente atual no jogo :  0
+128 -1300100.0
+Pontuação do agente atual no jogo :  40
+129 319400.0
+Pontuação do agente atual no jogo :  0
+130 -701600.0
+Population's average fitness: -546024.00000 stdev: 579761.32212
+Best fitness: 319400.00000 - size: (12, 10667) - species 1 - id 129
+Average adjusted fitness: 0.466
+Mean genetic distance 0.815, standard deviation 0.209
+Population of 25 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    7    25  319400.0    0.466     0
+Total extinctions: 0
+Generation time: 1947.733 sec (1789.961 average)
+
+ ****** Running generation 8 ****** 
+
+Pontuação do agente atual no jogo :  40
+129 319400.0
+Pontuação do agente atual no jogo :  30
+52 298400.0
+Pontuação do agente atual no jogo :  40
+8 82500.0
+Pontuação do agente atual no jogo :  40
+51 74600.0
+Pontuação do agente atual no jogo :  40
+126 -140000.0
+Pontuação do agente atual no jogo :  0
+38 -156600.0
+Pontuação do agente atual no jogo :  0
+23 -157100.0
+Pontuação do agente atual no jogo :  0
+60 -157100.0
+Pontuação do agente atual no jogo :  0
+84 -157600.0
+Pontuação do agente atual no jogo :  0
+36 -160100.0
+Pontuação do agente atual no jogo :  0
+131 -1300100.0
+Pontuação do agente atual no jogo :  0
+132 -1300100.0
+Pontuação do agente atual no jogo :  0
+133 -1300100.0
+Pontuação do agente atual no jogo :  100
+134 -691700.0
+Pontuação do agente atual no jogo :  0
+135 -1300100.0
+Pontuação do agente atual no jogo :  0
+136 -456100.0
+Pontuação do agente atual no jogo :  0
+137 -1300100.0
+Pontuação do agente atual no jogo :  0
+138 -1300100.0
+Pontuação do agente atual no jogo :  0
+139 -1300100.0
+Pontuação do agente atual no jogo :  0
+140 -1300100.0
+Pontuação do agente atual no jogo :  0
+141 -1300100.0
+Pontuação do agente atual no jogo :  0
+142 -703100.0
+Pontuação do agente atual no jogo :  0
+143 -1300100.0
+Pontuação do agente atual no jogo :  0
+144 -1300100.0
+Pontuação do agente atual no jogo :  0
+145 -1000600.0
+Population's average fitness: -692248.00000 stdev: 604717.72993
+Best fitness: 319400.00000 - size: (12, 10667) - species 1 - id 129
+Average adjusted fitness: 0.375
+Mean genetic distance 0.871, standard deviation 0.204
+Population of 25 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    8    25  319400.0    0.375     1
+Total extinctions: 0
+Generation time: 1925.775 sec (1805.052 average)
+
+ ****** Running generation 9 ****** 
+
+Pontuação do agente atual no jogo :  40
+129 319400.0
+Pontuação do agente atual no jogo :  30
+52 298400.0
+Pontuação do agente atual no jogo :  40
+8 82500.0
+Pontuação do agente atual no jogo :  40
+51 74600.0
+Pontuação do agente atual no jogo :  40
+126 -140000.0
+Pontuação do agente atual no jogo :  0
+38 -156600.0
+Pontuação do agente atual no jogo :  0
+23 -157100.0
+Pontuação do agente atual no jogo :  0
+60 -157100.0
+Pontuação do agente atual no jogo :  0
+84 -157600.0
+Pontuação do agente atual no jogo :  0
+36 -160100.0
+Pontuação do agente atual no jogo :  0
+146 -1300100.0
+Pontuação do agente atual no jogo :  0
+147 -1300100.0
+Pontuação do agente atual no jogo :  0
+148 -1300100.0
+Pontuação do agente atual no jogo :  0
+149 -1300100.0
+Pontuação do agente atual no jogo :  0
+150 -456100.0
+Pontuação do agente atual no jogo :  0
+151 -1300100.0
+Pontuação do agente atual no jogo :  0
+152 -1300100.0
+Pontuação do agente atual no jogo :  0
+153 -456600.0
+Pontuação do agente atual no jogo :  0
+154 -456100.0
+Pontuação do agente atual no jogo :  0
+155 -1001100.0
+Pontuação do agente atual no jogo :  0
+156 -1300100.0
+Pontuação do agente atual no jogo :  130
+157 -446700.0
+Pontuação do agente atual no jogo :  0
+158 -1300100.0
+Pontuação do agente atual no jogo :  0
+159 -1300100.0
+Pontuação do agente atual no jogo :  0
+160 -1300100.0
+Population's average fitness: -638848.00000 stdev: 595754.83153
+Best fitness: 319400.00000 - size: (12, 10667) - species 1 - id 129
+Average adjusted fitness: 0.408
+Mean genetic distance 0.839, standard deviation 0.228
+Population of 25 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    9    25  319400.0    0.408     2
+Total extinctions: 0
+Generation time: 1850.213 sec (1809.568 average)
+
+ ****** Running generation 10 ****** 
+
+Pontuação do agente atual no jogo :  40
+129 319400.0
+Pontuação do agente atual no jogo :  30
+52 298400.0
+Pontuação do agente atual no jogo :  40
+8 82500.0
+Pontuação do agente atual no jogo :  40
+51 74600.0
+Pontuação do agente atual no jogo :  40
+126 -140000.0
+Pontuação do agente atual no jogo :  0
+38 -156600.0
+Pontuação do agente atual no jogo :  0
+23 -157100.0
+Pontuação do agente atual no jogo :  0
+60 -157100.0
+Pontuação do agente atual no jogo :  0
+84 -157600.0
+Pontuação do agente atual no jogo :  0
+36 -160100.0
+Pontuação do agente atual no jogo :  0
+161 -1300100.0
+Pontuação do agente atual no jogo :  0
+162 -456100.0
+Pontuação do agente atual no jogo :  0
+163 -1300100.0
+Pontuação do agente atual no jogo :  0
+164 -1300100.0
+Pontuação do agente atual no jogo :  0
+165 -1300100.0
+Pontuação do agente atual no jogo :  0
+166 -456100.0
+Pontuação do agente atual no jogo :  0
+167 -161600.0
+Pontuação do agente atual no jogo :  0
+168 -456100.0
+Pontuação do agente atual no jogo :  0
+169 -158600.0
+Pontuação do agente atual no jogo :  0
+170 -1001100.0
+Pontuação do agente atual no jogo :  0
+171 -753100.0
+Pontuação do agente atual no jogo :  0
+172 -456600.0
+Pontuação do agente atual no jogo :  0
+173 -1300100.0
+Pontuação do agente atual no jogo :  0
+174 -1000600.0
+Pontuação do agente atual no jogo :  0
+175 -161100.0
+Population's average fitness: -468604.00000 stdev: 521125.31735
+Best fitness: 319400.00000 - size: (12, 10667) - species 1 - id 129
+Average adjusted fitness: 0.513
+Mean genetic distance 0.797, standard deviation 0.224
+Population of 25 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   10    25  319400.0    0.513     3
+Total extinctions: 0
+Generation time: 1840.256 sec (1819.357 average)
+
+ ****** Running generation 11 ****** 
+
+Pontuação do agente atual no jogo :  40
+129 319400.0
+Pontuação do agente atual no jogo :  30
+52 298400.0
+Pontuação do agente atual no jogo :  40
+8 82500.0
+Pontuação do agente atual no jogo :  40
+51 74600.0
+Pontuação do agente atual no jogo :  40
+126 -140000.0
+Pontuação do agente atual no jogo :  0
+38 -156600.0
+Pontuação do agente atual no jogo :  0
+23 -157100.0
+Pontuação do agente atual no jogo :  0
+60 -157100.0
+Pontuação do agente atual no jogo :  0
+84 -157600.0
+Pontuação do agente atual no jogo :  0
+169 -158600.0
+Pontuação do agente atual no jogo :  0
+176 -1300100.0
+Pontuação do agente atual no jogo :  0
+177 -1000600.0
+Pontuação do agente atual no jogo :  0
+178 -1300100.0
+Pontuação do agente atual no jogo :  0
+179 -1300100.0
+Pontuação do agente atual no jogo :  0
+180 -702600.0
+Pontuação do agente atual no jogo :  0
+181 -1300100.0
+Pontuação do agente atual no jogo :  0
+182 -1300100.0
+Pontuação do agente atual no jogo :  0
+183 -1300100.0
+Pontuação do agente atual no jogo :  0
+184 -210100.0
+Pontuação do agente atual no jogo :  0
+185 -1300100.0
+Programa interrompido pelo usuário. Salvando e encerrando...

@@ -1,6 +1,8 @@
 # NEAT
 
+Neste projeto, é aplicado o algoritmo NEAT para treinar agentes em um ambiente de jogo (Daffy Duck: The Marvin Missions). O NEAT, que significa NeuroEvolution of Augmenting Topologies, difere do método tradicional de treinamento de redes neurais, pois evolui a arquitetura da rede ao longo do tempo. Cada agente no NEAT é representado por dois conjuntos de genes: nós (neurônios) e conexões entre esses nós. O treinamento ocorre por meio de mutações e cruzamentos, sem a necessidade de treinamento supervisionado. O projeto visa explorar a capacidade do NEAT em descobrir automaticamente arquiteturas eficazes para tarefas complexas, oferecendo uma abordagem adaptativa e autônoma para o aprendizado de máquina.
 
+Espero que esses resumos estejam mais alinhados com suas expectativas. Se precisar de mais ajustes ou informações adicionais, por favor, me avise.
 
 # Configuração do ambiente
 
